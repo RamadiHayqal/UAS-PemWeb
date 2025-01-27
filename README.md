@@ -48,6 +48,5 @@ Sistem Informasi Klinik adalah aplikasi web berbasis CodeIgniter 4 untuk mengelo
 4. Gunakan menu di navbar untuk navigasi
 5. Logout setelah selesai
 
-## Keterangan
-
-- setelah login tampilan dashboard nya tidak muncul
+## Kendala
+- setelah login tampilan dashboard nya belum muncul
